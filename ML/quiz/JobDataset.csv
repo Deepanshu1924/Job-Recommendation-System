@@ -1,0 +1,50 @@
+Job Title,Location,Position Type,Fresher/Intern,Salary (INR),Experience (Years),Job Type,Company Name,Size (Employees),Industry,Skills Required,Job Description Summary
+Software Engineer,Bangalore,Tech,Fresher,600000,0,Remote,Tech Solutions,200-500,IT,"Java, Python, SQL",Entry-level software engineer role focusing on backend systems.
+Data Analyst,Mumbai,Tech,Intern,300000,0,Hybrid,DataCorp,50-200,Analytics,"Excel, Python, SQL",Analyzing datasets to generate insights for decision-making.
+Product Manager,Delhi,Tech,Fresher,1200000,0,On-site,InnoTech,500-1000,Management,"Leadership, Roadmapping",Manage product lifecycle and strategic planning.
+UX Designer,Hyderabad,Tech,Fresher,700000,0,Remote,DesignHub,200-500,Design,"Sketch, Figma, AdobeXD",Design user-friendly interfaces for applications.
+System Administrator,Chennai,Tech,Intern,500000,0,Hybrid,SysWorks,50-200,IT,"Linux, Shell Scripting",Maintain and monitor organizational IT infrastructure.
+Mobile Developer,Pune,Tech,Intern,400000,0,On-site,AppFlow,200-500,IT,"Kotlin, Flutter",Develop mobile applications for Android and iOS.
+Cloud Engineer,Kolkata,Tech,Fresher,800000,0,Remote,CloudSphere,500-1000,IT,"AWS, Azure",Manage and deploy cloud-based infrastructure.
+DevOps Engineer,Jaipur,Tech,Intern,900000,0,Hybrid,DevNet,50-200,IT,"Docker, Kubernetes",Streamline development and deployment pipelines.
+AI Researcher,Ahmedabad,Tech,Fresher,1500000,0,Remote,AI Edge,1000-5000,Research,"TensorFlow, PyTorch",Research and develop cutting-edge AI models.
+QA Tester,Surat,Tech,Intern,400000,0,On-site,TestWorks,50-200,Testing,"JIRA, Selenium",Ensure software meets quality standards.
+Backend Developer,Noida,Tech,Fresher,850000,0,Hybrid,CodeBase,200-500,IT,"Node.js, Express.js",Build APIs and services for applications.
+Frontend Developer,Gurgaon,Tech,Fresher,950000,0,Remote,Webify,500-1000,IT,"React, Angular",Create interactive web components.
+IT Support Specialist,Lucknow,Tech,Intern,400000,0,On-site,SupportHub,50-200,Support,"Troubleshooting, Communication",Provide IT support and troubleshooting services.
+Network Engineer,Chandigarh,Tech,Intern,600000,0,Remote,NetSecure,200-500,Networking,"Networking, Routing",Design and implement network solutions.
+Cybersecurity Analyst,Patna,Tech,Fresher,700000,0,Hybrid,CyberTech,500-1000,Security,"Security, Ethical Hacking",Safeguard systems from cybersecurity threats.
+Game Developer,Indore,Tech,Intern,500000,0,On-site,GameForge,50-200,Gaming,"Unity, Unreal Engine",Design and develop engaging video games.
+Database Administrator,Nagpur,Tech,Fresher,750000,0,Remote,DBSystems,200-500,Database,"SQL, NoSQL",Manage and maintain database systems.
+IT Consultant,Bhopal,Tech,Fresher,800000,0,Hybrid,ITPro,500-1000,Consulting,"Communication, Problem Solving",Provide IT consultancy for businesses.
+Web Developer,Visakhapatnam,Tech,Fresher,850000,0,On-site,WebFlow,1000-5000,IT,"HTML, CSS, JS",Build responsive and dynamic websites.
+Full Stack Developer,Vadodara,Tech,Intern,1000000,0,Remote,StackTech,500-1000,IT,"MERN, LAMP",Develop end-to-end software solutions.
+Machine Learning Engineer,Ludhiana,Tech,Fresher,1400000,0,Hybrid,LearnAI,1000-5000,AI,"Python, scikit-learn",Build and deploy machine learning algorithms.
+Technical Writer,Agra,Tech,Intern,600000,0,Remote,TechDocs,50-200,Documentation,Technical Writing,Create technical documents and manuals.
+Graphic Designer,Coimbatore,Tech,Fresher,500000,0,On-site,DesignPro,200-500,Design,"Photoshop, Illustrator","Design logos, branding, and promotional material."
+SEO Specialist,Madurai,Tech,Intern,450000,0,Remote,SearchMax,500-1000,Marketing,"SEO, SEM",Optimize websites for search engines.
+Digital Marketer,Thiruvananthapuram,Tech,Fresher,550000,0,Hybrid,MarketGuru,50-200,Marketing,Social Media Marketing,Plan and execute digital marketing campaigns.
+Hardware Engineer,Ranchi,Tech,Fresher,1200000,0,On-site,ChipDesigns,200-500,IT,"Verilog, VHDL",Design and test hardware components.
+Blockchain Developer,Raipur,Tech,Intern,1400000,0,Remote,CryptoWorks,500-1000,Blockchain,"Solidity, Ethereum",Develop and test blockchain-based applications.
+AR/VR Developer,Guwahati,Tech,Fresher,1300000,0,Hybrid,VR World,200-500,AR/VR,"Unity, Blender",Create immersive AR and VR applications.
+Big Data Analyst,Mysore,Tech,Fresher,950000,0,Remote,DataView,1000-5000,Analytics,"Hadoop, Spark",Analyze massive datasets for insights.
+Embedded Systems Engineer,Hubli,Tech,Intern,850000,0,On-site,EmbedPro,50-200,Embedded,"Embedded C, Microcontrollers",Design and test embedded systems.
+Sales Engineer,Dehradun,Tech,Fresher,750000,0,Hybrid,SalesForce,200-500,Sales,CRM Tools,Provide technical sales support.
+Business Analyst,Jodhpur,Tech,Intern,1100000,0,Remote,BizAnalyze,500-1000,Analytics,"SQL, Tableau",Analyze business processes and recommend improvements.
+Robotics Engineer,Vijayawada,Tech,Fresher,1000000,0,On-site,RoboTech,1000-5000,Robotics,"Python, ROS",Build and program robots for various applications.
+IoT Developer,Amritsar,Tech,Fresher,1300000,0,Hybrid,IoTSolutions,200-500,IoT,"C, Arduino",Design IoT-enabled systems and solutions.
+Data Scientist,Varanasi,Tech,Fresher,1400000,0,Remote,DataMind,500-1000,Data Science,"R, Python",Analyze and interpret complex datasets.
+Cloud Architect,Aurangabad,Tech,Intern,400000,0,On-site,SkyCloud,50-200,Cloud,"AWS, DevOps",Architect and design cloud solutions.
+Help Desk Technician,Nashik,Tech,Intern,650000,0,Remote,HelpDesk,200-500,Support,Hardware Support,Handle IT queries and troubleshooting.
+Automation Engineer,Pondicherry,Tech,Fresher,900000,0,Hybrid,AutoTech,1000-5000,Automation,"Python, RPA Tools",Automate workflows and systems.
+Firmware Developer,Shillong,Tech,Intern,950000,0,On-site,CodeChip,200-500,IT,"Assembly, Embedded C",Develop low-level firmware for devices.
+Solutions Architect,Imphal,Tech,Fresher,500000,0,Remote,SolutionStream,500-1000,Gaming,Cloud Design,Create enterprise-level IT solutions.
+Game Tester,Aizawl,Tech,Fresher,750000,0,Hybrid,GamePlay,50-200,Design,Unity Testing,Test games for bugs and usability issues.
+UI Designer,Gangtok,Tech,Intern,850000,0,Remote,UIDesigns,200-500,Analysis,"AdobeXD, Sketch",Create intuitive user interfaces.
+Systems Analyst,Kohima,Tech,Fresher,950000,0,On-site,SysAnalyze,500-1000,Operations,Systems Thinking,Analyze organizational systems and recommend improvements.
+Operations Engineer,Itanagar,Tech,Intern,450000,0,Remote,OpsFlow,1000-5000,Testing,Monitoring Tools,Optimize operational workflows.
+Software Tester,Dispur,Tech,Fresher,850000,0,Hybrid,TestSphere,50-200,Transformation,Test Automation,Test software for bugs and glitches.
+Digital Transformation Specialist,Panaji,Tech,Intern,1400000,0,On-site,DigiTransform,500-1000,AI,Change Management,Lead digital transformation initiatives.
+Computer Vision Engineer,Port Blair,Tech,Fresher,1200000,0,Remote,VisionAI,1000-5000,Project Management,"OpenCV, Deep Learning",Develop computer vision applications.
+IT Project Manager,Daman,Tech,Intern,600000,0,Hybrid,ProjectPro,200-500,Design,"Scrum, Agile",Plan and oversee IT projects.
+Mobile UX Designer,Silvassa,Tech,Fresher,1100000,0,Remote,UXMotion,500-1000,Analytics,UX Design Principles,Design mobile-first user experiences.
